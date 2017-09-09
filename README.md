@@ -1,0 +1,3 @@
+How I got into proramming? I'm currently a Business Analyst/QA&UAT tester at a cruise line. However, my company is no longer hiring manual QAs only, Jr Level SDETs and I need to have the required skills to achive that position. I've been doing testing in various forms at that company for 8 years.
+
+What are my goals for programming in the near/far future? learn skills that can help with automated testing. Either running the tools or creating the tests. I'd also like to learn and explore AR/VR/MR games in case most of our jobs are automated one day, and all of the jobs are focused on entertaining people who no longer need to work.
