@@ -1,0 +1,23 @@
+(venv) C:\Users\kkh\Desktop\DojoAssignments\Python\OOP>python bike.py
+Driving
+Driving
+Driving
+Reversing
+Price is: $200.0
+Max speed: 25mph
+Total miles: 25miles
+Driving
+Driving
+Reversing
+Reversing
+Price is: $99.99
+Max speed: 12mph
+Total miles: 10miles
+Reversing
+Reversing
+Reversing
+Price is: $139.99
+Max speed: 20mph
+Total miles: 0miles
+
+(venv) C:\Users\kkh\Desktop\DojoAssignments\Python\OOP>

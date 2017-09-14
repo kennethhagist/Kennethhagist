@@ -1,0 +1,33 @@
+(venv) C:\Users\kkh\Desktop\DojoAssignments\Python\OOP>python car.py
+Price: $2000
+Speed: 35mph
+Fuel: Full
+Mileage: 15mpg
+Tax: 0.12%
+Price: $2000
+Speed: 5mph
+Fuel: Not Full
+Mileage: 105mpg
+Tax: 0.12%
+Price: $2000
+Speed: 15mph
+Fuel: 1/2 Full
+Mileage: 95mpg
+Tax: 0.12%
+Price: $2000
+Speed: 25mph
+Fuel: 3/4 Full
+Mileage: 25mpg
+Tax: 0.12%
+Price: $2000
+Speed: 45mph
+Fuel: Empty
+Mileage: 25mpg
+Tax: 0.12%
+Price: $20000000
+Speed: 35mph
+Fuel: Empty
+Mileage: 15mpg
+Tax: 0.15%
+
+(venv) C:\Users\kkh\Desktop\DojoAssignments\Python\OOP>

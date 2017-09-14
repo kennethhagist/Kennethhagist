@@ -1,0 +1,16 @@
+kkh@G8N8VD2 MINGW64 ~/desktop/dojoassignments/python/week5/product
+$ python product.py
+Price: $19.99
+Item Name: Controller
+Weight: 5oz
+Brand: Xbox
+Cost: 14.99
+Status: For sale
+Price: $2.598
+Item Name: Controller
+Weight: 5oz
+Brand: Xbox
+Cost: 14.99
+Status: used
+21.76911
+2.829222

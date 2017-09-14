@@ -1,0 +1,33 @@
+(venv) C:\Users\kkh\Desktop\DojoAssignments\Python\OOP>python animal.py
+Walking
+Walking
+Walking
+Running
+Running
+My name is: Cat
+My current health is: 87
+
+Walking
+Walking
+Walking
+Running
+Running
+My name is: Dog
+My current health is: 87
+
+Walking
+Walking
+Walking
+Running
+Running
+Get pets
+My name is: Sophie
+My current health is: 142
+
+Flying and seeking prey
+I am THE Dragon you fear
+My name is: Nightfury
+My current health is: 160
+
+My name is: Carl
+My current health is: 125

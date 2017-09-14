@@ -1,0 +1,29 @@
+kkh@G8N8VD2 MINGW64 ~/desktop/dojoassignments/python
+$ python hospital.py
+Ken
+Potato
+Daniel
+Peanuts
+Indhu
+Meat
+Everett
+Women
+Wendy
+Fish
+Gabrielle
+Perfume
+Harborview
+100
+Patient #0 admitted to bed #0
+None
+Patient #1 admitted to bed #1
+None
+Patient #2 admitted to bed #2
+None
+Patient #3 admitted to bed #3
+None
+Patient #4 admitted to bed #4
+None
+Patient #5 admitted to bed #5
+None
+Patient not found

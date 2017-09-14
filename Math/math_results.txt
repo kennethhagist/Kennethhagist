@@ -1,0 +1,5 @@
+kkh@G8N8VD2 MINGW64 ~/desktop/dojoassignments/python/week5/math (master)
+$ python math.py
+4
+135
+163.15

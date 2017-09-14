@@ -1,0 +1,84 @@
+C:\Users\kkh\Desktop\DojoAssignments\Python>python call_test.py
+Would You like to make a call?
+type [1] for yes and [0] for no
+1
+What is your name?
+Ken
+What is your reason for calling?
+missing package
+Please confirm your phone number
+2066268009
+Please stay on the line while we proccess your call
+All calls today:
+
+####################
+time_of_call: 06:16:15
+reason: missing package
+caller: Ken
+phone_num: 2066268009
+id: 0
+####################
+Would You like to make a call?
+type [1] for yes and [0] for no
+1
+What is your name?
+Daniel
+What is your reason for calling?
+damaged package
+Please confirm your phone number
+2066268033
+Please stay on the line while we proccess your call
+All calls today:
+
+####################
+time_of_call: 06:16:15
+reason: missing package
+caller: Ken
+phone_num: 2066268009
+id: 0
+####################
+
+####################
+time_of_call: 06:27:41
+reason: damaged package
+caller: Daniel
+phone_num: 2066268033
+id: 1
+####################
+Would You like to make a call?
+type [1] for yes and [0] for no
+1
+What is your name?
+Indhu
+What is your reason for calling?
+praise & joy
+Please confirm your phone number
+2066268031
+Please stay on the line while we proccess your call
+All calls today:
+
+####################
+time_of_call: 06:16:15
+reason: missing package
+caller: Ken
+phone_num: 2066268009
+id: 0
+####################
+
+####################
+time_of_call: 06:27:41
+reason: damaged package
+caller: Daniel
+phone_num: 2066268033
+id: 1
+####################
+
+####################
+time_of_call: 06:28:13
+reason: praise & joy
+caller: Indhu
+phone_num: 2066268031
+id: 2
+####################
+Would You like to make a call?
+type [1] for yes and [0] for no
