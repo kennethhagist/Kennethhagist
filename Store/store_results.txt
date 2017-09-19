@@ -1,0 +1,39 @@
+KKH@G8N8VD2 MINGW64 ~/desktop/dojoassignments/python/week5/store (master)
+$ python store.py
+Senior Kenneth
+Seattle
+
+Price: $0.5
+Item Name: Recess PB cups
+Weight: 0.1oz
+Brand: Nestle
+Cost: 0.1
+Status: For sale
+Price: $1.75
+Item Name: CranRaspberry
+Weight: 0.1oz
+Brand: LaCriox
+Cost: 0.1
+Status: For sale
+
+Price: $0.5
+Item Name: Recess PB cups
+Weight: 0.1oz
+Brand: Nestle
+Cost: 0.1
+Status: For sale
+Price: $1.75
+Item Name: CranRaspberry
+Weight: 0.1oz
+Brand: LaCriox
+Cost: 0.1
+Status: For sale
+
+We are no longer stocking candy in our market
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Price: $1.75
+Item Name: CranRaspberry
+Weight: 0.1oz
+Brand: LaCriox
+Cost: 0.1
+Status: For sale
